@@ -1,0 +1,17 @@
+.icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.5rem;
+  color: gray;
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+}
+.text-gray {
+  color: gray;
+}
+.nav span {
+  padding: 5px;
+  cursor: pointer;
+}

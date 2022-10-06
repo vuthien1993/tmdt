@@ -1,0 +1,45 @@
+.bannerShop {
+  margin: 10px 80px;
+  padding: 50px;
+  background: rgb(239, 243, 239);
+}
+.text-size {
+  font-size: 200%;
+}
+.navshop {
+  margin: 10px 80px;
+}
+.rightShop {
+  text-align: right;
+}
+.blackBackground {
+  background: black;
+  padding: 3px;
+  color: white;
+  text-align: left;
+}
+.backgroundP {
+  background: rgb(239, 243, 239);
+  padding: 3px;
+  text-align: left;
+}
+.navbarshop p:hover {
+  cursor: pointer;
+}
+.rightShop select:hover {
+  cursor: pointer;
+}
+.imgAll {
+  margin-top: 10px;
+}
+.imgAll img {
+  opacity: 1;
+  width: 100%;
+  cursor: pointer;
+}
+.imgAll img:hover {
+  opacity: 0.5;
+}
+.imgAll p {
+  text-align: center;
+}

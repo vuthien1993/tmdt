@@ -1,0 +1,28 @@
+.billingDetail {
+  margin: 10px 80px;
+}
+.billingDetail input {
+  margin-bottom: 10px;
+  width: 100%;
+  height: 3rem;
+}
+.billingDetail button {
+  border: none;
+  background: #333;
+  height: 3rem;
+  color: white;
+  width: 20%;
+}
+.yourOrder {
+  background: rgb(239, 243, 239);
+  padding: 10px;
+}
+.yourOrder span {
+  padding: 10px;
+}
+.padding {
+  margin-left: 30%;
+}
+.textGray {
+  color: gray;
+}

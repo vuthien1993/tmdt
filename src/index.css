@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+.nav {
+  margin: 10px 80px;
+  padding: 10px;
+  text-align: center;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.invalid input {
+  border: 1px solid #b40e0e;
+  background-color: #fddddd;
+}
+
+.invalid input:focus {
+  border-color: #ff8800;
+  background-color: #fbe8d2;
+}
+
+.error-text {
+  color: #b40e0e;
+}
+.buttonDisabled button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+  border: #ccc;
+  color: #3f3f3f;
+}
+.hover button:hover {
+  background-color: #ccc;
+  cursor: not-allowed;
+  border: #ccc;
+  color: #3f3f3f;
+}

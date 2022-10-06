@@ -1,0 +1,31 @@
+.borderDetail {
+  margin: 10px 80px;
+}
+.borderDetail img {
+  width: 100%;
+}
+.borderDetail p {
+  text-align: justify;
+}
+.borderDetail button {
+  cursor: pointer;
+  border: none;
+  background: #333;
+  color: white;
+  height: 2rem;
+}
+.borderDetail input {
+  height: 2rem;
+}
+.detailCenter {
+  text-align: center;
+}
+.detailCenter {
+  text-align: center;
+}
+.borderDetail h5 {
+  margin-top: 10px;
+}
+.marginTopDetail {
+  margin-top: 50px;
+}

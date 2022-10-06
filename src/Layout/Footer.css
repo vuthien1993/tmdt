@@ -1,0 +1,25 @@
+.footer {
+  padding: 50px;
+  background: black;
+  color: whitesmoke;
+}
+.footer a {
+  text-decoration: none;
+  color: #999;
+}
+.footer a:hover {
+  color: white;
+  padding-left: 0.3rem;
+}
+.footer li {
+  padding: 5px;
+
+  list-style: none;
+}
+.footerContent {
+  margin: 10px 80px;
+  padding: 10px;
+}
+.footerContent h5 {
+  margin-left: 20px;
+}

@@ -1,0 +1,51 @@
+.homeLPr {
+  margin: 10px 80px;
+}
+.homeLPr h6 {
+  text-align: left;
+  color: gray;
+}
+.homeLPr img {
+  opacity: 1;
+  width: 100%;
+}
+.homeLPr img:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+.other {
+  margin: 10px 80px;
+  text-align: center;
+  padding: 50px;
+  background: rgb(232, 241, 232);
+}
+.other p {
+  color: gray;
+}
+.right {
+  text-align: right;
+}
+.homeLPr p {
+  color: gray;
+}
+.homeLPr input {
+  border: 1px solid gray;
+  width: 60%;
+  height: 3rem;
+}
+.homeLPr button,
+button:hover {
+  height: 3rem;
+  background: gray;
+  border: none;
+  color: aliceblue;
+}
+.homeLPrbutton:hover {
+  height: 3rem;
+  background: gray;
+  border: none;
+  color: aliceblue;
+}
+.centerHome {
+  text-align: center;
+}

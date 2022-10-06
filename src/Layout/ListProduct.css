@@ -1,0 +1,21 @@
+.listProduct {
+  margin: 10px 60px;
+}
+.listProduct h5,
+h6 {
+  text-align: center;
+}
+.listProduct h6 {
+  color: gray;
+}
+.listProduct img {
+  opacity: 1;
+  width: 100%;
+  cursor: pointer;
+}
+.listProduct img:hover {
+  opacity: 0.5;
+}
+.listProductImg1 {
+  margin: 10px 120px 10px 0px;
+}
